@@ -1,8 +1,6 @@
-# proprietary_vendor_samsung_gtaxlwifi (PRIVATE)
-
+# proprietary_vendor_samsung_gtaxlwifi
 Private firmware dump for Samsung Galaxy Tab A 10.1 2016 Wi‑Fi (SM‑T580 / gtaxlwifi).
 
-**WARNING:** This repository contains proprietary binaries. Do not make it public.
 
 Contents were pulled from an Android device:
 - `/vendor/firmware/*`
